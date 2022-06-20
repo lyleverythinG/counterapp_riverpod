@@ -1,6 +1,6 @@
 # Counter App with Riverpod
+_This project shows a simple counter app example with Riverpod implementation_.
 
-- This project shows a simple counter app example with Riverpod implementation.
 - autoDispose() is used to reset the screen when user leaves.
 - refresh() is used to reset the value of counter to default. (0).
 - ref.watch() is used to rebuild the widget when the value of counter changes.
